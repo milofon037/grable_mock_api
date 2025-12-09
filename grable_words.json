@@ -1,0 +1,3522 @@
+{
+  "playlists": [
+    {
+      "name": "Животные",
+      "words": [
+        {
+          "original": "yak",
+          "translation": "як",
+          "transcription": "jæk"
+        },
+        {
+          "original": "ox",
+          "translation": "вол",
+          "transcription": "ɒks"
+        },
+        {
+          "original": "cat",
+          "translation": "кот",
+          "transcription": "kæt"
+        },
+        {
+          "original": "bull",
+          "translation": "бык",
+          "transcription": "bʊl"
+        },
+        {
+          "original": "owl",
+          "translation": "сова",
+          "transcription": "aʊl"
+        },
+        {
+          "original": "fox",
+          "translation": "лиса",
+          "transcription": "fɒks"
+        },
+        {
+          "original": "jay",
+          "translation": "сойка",
+          "transcription": "ʤeɪ"
+        },
+        {
+          "original": "hare",
+          "translation": "заяц",
+          "transcription": "heə"
+        },
+        {
+          "original": "duck",
+          "translation": "утка",
+          "transcription": "dʌk"
+        },
+        {
+          "original": "wasp",
+          "translation": "оса",
+          "transcription": "wɒsp"
+        },
+        {
+          "original": "rat",
+          "translation": "крыса",
+          "transcription": "ræt"
+        },
+        {
+          "original": "fish",
+          "translation": "рыба",
+          "transcription": "fɪʃ"
+        },
+        {
+          "original": "fly",
+          "translation": "муха",
+          "transcription": "flaɪ"
+        },
+        {
+          "original": "bee",
+          "translation": "пчела",
+          "transcription": "biː"
+        },
+        {
+          "original": "wolf",
+          "translation": "волк",
+          "transcription": "wʊlf"
+        },
+        {
+          "original": "whale",
+          "translation": "кит",
+          "transcription": "weɪl"
+        },
+        {
+          "original": "boar",
+          "translation": "кабан",
+          "transcription": "bɔː"
+        },
+        {
+          "original": "dog",
+          "translation": "собака",
+          "transcription": "dɒɡ"
+        },
+        {
+          "original": "toad",
+          "translation": "жаба",
+          "transcription": "təʊd"
+        },
+        {
+          "original": "crab",
+          "translation": "краб",
+          "transcription": "kræb"
+        },
+        {
+          "original": "elk",
+          "translation": "вапити",
+          "transcription": "ɛlk"
+        },
+        {
+          "original": "cow",
+          "translation": "корова",
+          "transcription": "kaʊ"
+        },
+        {
+          "original": "deer",
+          "translation": "олень",
+          "transcription": "dɪə"
+        },
+        {
+          "original": "pig",
+          "translation": "свинья",
+          "transcription": "pɪɡ"
+        },
+        {
+          "original": "mole",
+          "translation": "крот",
+          "transcription": "məʊl"
+        },
+        {
+          "original": "mouse",
+          "translation": "мышь",
+          "transcription": "maʊs"
+        },
+        {
+          "original": "dove",
+          "translation": "голубь",
+          "transcription": "dʌv"
+        },
+        {
+          "original": "goose",
+          "translation": "гусь",
+          "transcription": "ɡuːs"
+        },
+        {
+          "original": "lynx",
+          "translation": "рысь",
+          "transcription": "lɪŋks"
+        },
+        {
+          "original": "goat",
+          "translation": "козел",
+          "transcription": "ɡəʊt"
+        },
+        {
+          "original": "mink",
+          "translation": "норка",
+          "transcription": "mɪŋk"
+        },
+        {
+          "original": "ant",
+          "translation": "муравей",
+          "transcription": "ænt"
+        },
+        {
+          "original": "bird",
+          "translation": "птица",
+          "transcription": "bɜːd"
+        },
+        {
+          "original": "sheep",
+          "translation": "овца",
+          "transcription": "ʃiːp"
+        },
+        {
+          "original": "yeti",
+          "translation": "йети",
+          "transcription": "ˈjɛti"
+        },
+        {
+          "original": "emu",
+          "translation": "эму",
+          "transcription": "ˈiːmjuː"
+        },
+        {
+          "original": "lion",
+          "translation": "лев",
+          "transcription": "ˈlaɪən"
+        },
+        {
+          "original": "hawk",
+          "translation": "ястреб",
+          "transcription": "hɔːk"
+        },
+        {
+          "original": "bear",
+          "translation": "медведь",
+          "transcription": "beə"
+        },
+        {
+          "original": "stork",
+          "translation": "аист",
+          "transcription": "stɔːk"
+        },
+        {
+          "original": "snake",
+          "translation": "змея",
+          "transcription": "sneɪk"
+        },
+        {
+          "original": "otter",
+          "translation": "выдра",
+          "transcription": "ˈɒtə"
+        },
+        {
+          "original": "ibis",
+          "translation": "ибис",
+          "transcription": "ˈaɪbɪs"
+        },
+        {
+          "original": "crow",
+          "translation": "ворона",
+          "transcription": "krəʊ"
+        },
+        {
+          "original": "worm",
+          "translation": "червяк",
+          "transcription": "wɜːm"
+        },
+        {
+          "original": "moth",
+          "translation": "мотылек",
+          "transcription": "mɒθ"
+        },
+        {
+          "original": "seal",
+          "translation": "тюлень",
+          "transcription": "siːl"
+        },
+        {
+          "original": "swan",
+          "translation": "лебедь",
+          "transcription": "swɒn"
+        },
+        {
+          "original": "tern",
+          "translation": "крачка",
+          "transcription": "tɜːn"
+        },
+        {
+          "original": "shark",
+          "translation": "акула",
+          "transcription": "ʃɑːk"
+        },
+        {
+          "original": "tuna",
+          "translation": "тунец",
+          "transcription": "ˈʧuːnə"
+        },
+        {
+          "original": "frog",
+          "translation": "лягушка",
+          "transcription": "frɒɡ"
+        },
+        {
+          "original": "horse",
+          "translation": "лошадь",
+          "transcription": "hɔːs"
+        },
+        {
+          "original": "slug",
+          "translation": "слизняк",
+          "transcription": "slʌɡ"
+        },
+        {
+          "original": "eagle",
+          "translation": "орел",
+          "transcription": "ˈiːɡᵊl"
+        },
+        {
+          "original": "zebu",
+          "translation": "зебу",
+          "transcription": "ˈziːbuː"
+        },
+        {
+          "original": "skunk",
+          "translation": "скунс",
+          "transcription": "skʌŋk"
+        },
+        {
+          "original": "kiwi",
+          "translation": "киви",
+          "transcription": "ˈkiːwiː"
+        },
+        {
+          "original": "finch",
+          "translation": "зяблик",
+          "transcription": "fɪnʧ"
+        },
+        {
+          "original": "tiger",
+          "translation": "тигр",
+          "transcription": "ˈtaɪɡə"
+        },
+        {
+          "original": "lemur",
+          "translation": "лемур",
+          "transcription": "ˈliːmə"
+        },
+        {
+          "original": "snail",
+          "translation": "улитка",
+          "transcription": "sneɪl"
+        },
+        {
+          "original": "zebra",
+          "translation": "зебра",
+          "transcription": "ˈzɛbrə"
+        },
+        {
+          "original": "heron",
+          "translation": "цапля",
+          "transcription": "ˈhɛrᵊn"
+        },
+        {
+          "original": "panda",
+          "translation": "панда",
+          "transcription": "ˈpændə"
+        },
+        {
+          "original": "beetle",
+          "translation": "жук",
+          "transcription": "ˈbiːtᵊl"
+        },
+        {
+          "original": "trout",
+          "translation": "форель",
+          "transcription": "traʊt"
+        },
+        {
+          "original": "tapir",
+          "translation": "тапир",
+          "transcription": "ˈteɪpə"
+        },
+        {
+          "original": "spider",
+          "translation": "паук",
+          "transcription": "ˈspaɪdə"
+        },
+        {
+          "original": "catfish",
+          "translation": "сом",
+          "transcription": "ˈkætfɪʃ"
+        },
+        {
+          "original": "crane",
+          "translation": "журавль",
+          "transcription": "kreɪn"
+        },
+        {
+          "original": "raven",
+          "translation": "ворон",
+          "transcription": "ˈreɪvᵊn"
+        },
+        {
+          "original": "beaver",
+          "translation": "бобер",
+          "transcription": "ˈbiːvə"
+        },
+        {
+          "original": "ferret",
+          "translation": "хорек",
+          "transcription": "ˈfɛrɪt"
+        },
+        {
+          "original": "badger",
+          "translation": "барсук",
+          "transcription": "ˈbæʤə"
+        },
+        {
+          "original": "sloth",
+          "translation": "ленивец",
+          "transcription": "sləʊθ"
+        },
+        {
+          "original": "harrier",
+          "translation": "лунь",
+          "transcription": "ˈhæriə"
+        },
+        {
+          "original": "bison",
+          "translation": "бизон",
+          "transcription": "ˈbaɪsᵊn"
+        },
+        {
+          "original": "puffin",
+          "translation": "тупик",
+          "transcription": "ˈpʌfɪn"
+        },
+        {
+          "original": "pigeon",
+          "translation": "голубь",
+          "transcription": "ˈpɪʤən"
+        },
+        {
+          "original": "jaguar",
+          "translation": "ягуар",
+          "transcription": "ˈʤæɡjuə"
+        },
+        {
+          "original": "falcon",
+          "translation": "сокол",
+          "transcription": "ˈfɒlkᵊn"
+        },
+        {
+          "original": "robin",
+          "translation": "зарянка",
+          "transcription": "ˈrɒbɪn"
+        },
+        {
+          "original": "walrus",
+          "translation": "морж",
+          "transcription": "ˈwɔːlrəs"
+        },
+        {
+          "original": "salmon",
+          "translation": "лосось",
+          "transcription": "ˈsæmən"
+        },
+        {
+          "original": "gibbon",
+          "translation": "гиббон",
+          "transcription": "ˈɡɪbᵊn"
+        },
+        {
+          "original": "buzzard",
+          "translation": "канюк",
+          "transcription": "ˈbʌzəd"
+        },
+        {
+          "original": "raccoon",
+          "translation": "енот",
+          "transcription": "rəˈkuːn"
+        },
+        {
+          "original": "koala",
+          "translation": "коала",
+          "transcription": "kəʊˈɑːlə"
+        },
+        {
+          "original": "hippo",
+          "translation": "бегемот",
+          "transcription": "ˈhɪpəʊ"
+        },
+        {
+          "original": "bat",
+          "translation": "летучая мышь",
+          "transcription": "bæt"
+        },
+        {
+          "original": "rabbit",
+          "translation": "кролик",
+          "transcription": "ˈræbɪt"
+        },
+        {
+          "original": "camel",
+          "translation": "верблюд",
+          "transcription": "ˈkæmᵊl"
+        },
+        {
+          "original": "baboon",
+          "translation": "бабуин",
+          "transcription": "bəˈbuːn"
+        },
+        {
+          "original": "quail",
+          "translation": "перепелка",
+          "transcription": "kweɪl"
+        },
+        {
+          "original": "gazelle",
+          "translation": "газель",
+          "transcription": "ɡəˈzɛl"
+        },
+        {
+          "original": "chicken",
+          "translation": "курица",
+          "transcription": "ˈʧɪkɪn"
+        },
+        {
+          "original": "hedgehog",
+          "translation": "ежик",
+          "transcription": "ˈhɛʤhɒɡ"
+        },
+        {
+          "original": "parrot",
+          "translation": "попугай",
+          "transcription": "ˈpærət"
+        },
+        {
+          "original": "condor",
+          "translation": "кондор",
+          "transcription": "ˈkɒndɔː"
+        },
+        {
+          "original": "wombat",
+          "translation": "вомбат",
+          "transcription": "ˈwɒmbət"
+        },
+        {
+          "original": "mammoth",
+          "translation": "мамонт",
+          "transcription": "ˈmæməθ"
+        },
+        {
+          "original": "cheetah",
+          "translation": "гепард",
+          "transcription": "ˈʧiːtə"
+        },
+        {
+          "original": "lizard",
+          "translation": "ящерица",
+          "transcription": "ˈlɪzəd"
+        },
+        {
+          "original": "turkey",
+          "translation": "индейка",
+          "transcription": "ˈtɜːki"
+        },
+        {
+          "original": "seagull",
+          "translation": "чайка",
+          "transcription": "ˈsiːɡʌl"
+        },
+        {
+          "original": "hamster",
+          "translation": "хомяк",
+          "transcription": "ˈhæmstə"
+        },
+        {
+          "original": "giraffe",
+          "translation": "жираф",
+          "transcription": "ʤɪˈrɑːf"
+        },
+        {
+          "original": "rhino",
+          "translation": "носорог",
+          "transcription": "ˈraɪnəʊ"
+        },
+        {
+          "original": "magpie",
+          "translation": "сорока",
+          "transcription": "ˈmæɡpaɪ"
+        },
+        {
+          "original": "pheasant",
+          "translation": "фазан",
+          "transcription": "ˈfɛzᵊnt"
+        },
+        {
+          "original": "ostrich",
+          "translation": "страус",
+          "transcription": "ˈɒstrɪʧ"
+        },
+        {
+          "original": "narwhal",
+          "translation": "нарвал",
+          "transcription": "ˈnɑːwᵊl"
+        },
+        {
+          "original": "peacock",
+          "translation": "павлин",
+          "transcription": "ˈpiːkɒk"
+        },
+        {
+          "original": "alpaca",
+          "translation": "альпака",
+          "transcription": "ælˈpækə"
+        },
+        {
+          "original": "hornet",
+          "translation": "шершень",
+          "transcription": "ˈhɔːnɪt"
+        },
+        {
+          "original": "monkey",
+          "translation": "обезьяна",
+          "transcription": "ˈmʌŋki"
+        },
+        {
+          "original": "elephant",
+          "translation": "слон",
+          "transcription": "ˈɛlɪfənt"
+        },
+        {
+          "original": "macaque",
+          "translation": "макака",
+          "transcription": "məˈkɑːk"
+        },
+        {
+          "original": "buffalo",
+          "translation": "бизон",
+          "transcription": "ˈbʌfələʊ"
+        },
+        {
+          "original": "leopard",
+          "translation": "леопард",
+          "transcription": "ˈlɛpəd"
+        },
+        {
+          "original": "squirrel",
+          "translation": "белка",
+          "transcription": "ˈskwɪrᵊl"
+        },
+        {
+          "original": "cricket",
+          "translation": "сверчок",
+          "transcription": "ˈkrɪkɪt"
+        },
+        {
+          "original": "termite",
+          "translation": "термит",
+          "transcription": "ˈtɜːmaɪt"
+        },
+        {
+          "original": "dolphin",
+          "translation": "дельфин",
+          "transcription": "ˈdɒlfɪn"
+        },
+        {
+          "original": "lobster",
+          "translation": "лобстер",
+          "transcription": "ˈlɒbstə"
+        },
+        {
+          "original": "wallaby",
+          "translation": "валлаби",
+          "transcription": "ˈwɒləbi"
+        },
+        {
+          "original": "opossum",
+          "translation": "опоссум",
+          "transcription": "əˈpɒsəm"
+        },
+        {
+          "original": "turtle",
+          "translation": "черепаха",
+          "transcription": "ˈtɜːtᵊl"
+        },
+        {
+          "original": "sparrow",
+          "translation": "воробей",
+          "transcription": "ˈspærəʊ"
+        },
+        {
+          "original": "animal",
+          "translation": "животное",
+          "transcription": "ˈænɪmᵊl"
+        },
+        {
+          "original": "gorilla",
+          "translation": "горилла",
+          "transcription": "ɡəˈrɪlə"
+        },
+        {
+          "original": "swallow",
+          "translation": "ласточка",
+          "transcription": "ˈswɒləʊ"
+        },
+        {
+          "original": "muskrat",
+          "translation": "ондатра",
+          "transcription": "ˈmʌskræt"
+        },
+        {
+          "original": "pelican",
+          "translation": "пеликан",
+          "transcription": "ˈpɛlɪkᵊn"
+        },
+        {
+          "original": "penguin",
+          "translation": "пингвин",
+          "transcription": "ˈpɛŋɡwɪn"
+        },
+        {
+          "original": "insect",
+          "translation": "насекомое",
+          "transcription": "ˈɪnsɛкт"
+        },
+        {
+          "original": "reptile",
+          "translation": "рептилия",
+          "transcription": "ˈrɛptaɪl"
+        },
+        {
+          "original": "ibex",
+          "translation": "горный козел",
+          "transcription": "ˈaɪbɛks"
+        },
+        {
+          "original": "jellyfish",
+          "translation": "медуза",
+          "transcription": "ˈʤɛlɪfɪʃ"
+        },
+        {
+          "original": "vulture",
+          "translation": "стервятник",
+          "transcription": "ˈvʌlʧə"
+        },
+        {
+          "original": "capuchin",
+          "translation": "капуцин",
+          "transcription": "ˈkæpʊʧɪn"
+        },
+        {
+          "original": "starling",
+          "translation": "скворец",
+          "transcription": "ˈstɑːlɪŋ"
+        },
+        {
+          "original": "mandrill",
+          "translation": "мандрил",
+          "transcription": "ˈmændrɪl"
+        },
+        {
+          "original": "tortoise",
+          "translation": "черепаха",
+          "transcription": "ˈtɔːtəs"
+        },
+        {
+          "original": "mosquito",
+          "translation": "комар",
+          "transcription": "məˈskiːtəʊ"
+        },
+        {
+          "original": "octopus",
+          "translation": "осьминог",
+          "transcription": "ˈɒktəpəs"
+        },
+        {
+          "original": "barn owl",
+          "translation": "сипуха",
+          "transcription": "bɑːn aʊl"
+        },
+        {
+          "original": "cockroach",
+          "translation": "таракан",
+          "transcription": "ˈkɒkrəʊʧ"
+        },
+        {
+          "original": "manatee",
+          "translation": "ламантин",
+          "transcription": "ˌmænəˈtiː"
+        },
+        {
+          "original": "kestrel",
+          "translation": "пустельга",
+          "transcription": "ˈkɛstrᵊl"
+        },
+        {
+          "original": "woodpecker",
+          "translation": "дятел",
+          "transcription": "ˈwʊdˌpɛkə"
+        },
+        {
+          "original": "mackerel",
+          "translation": "скумбрия",
+          "transcription": "ˈmækᵊrəl"
+        },
+        {
+          "original": "bullfinch",
+          "translation": "снегирь",
+          "transcription": "ˈbʊlfɪnʧ"
+        },
+        {
+          "original": "dinosaur",
+          "translation": "динозавр",
+          "transcription": "ˈdaɪnəsɔː"
+        },
+        {
+          "original": "antelope",
+          "translation": "антилопа",
+          "transcription": "ˈæntɪləʊp"
+        },
+        {
+          "original": "mammal",
+          "translation": "млекопитающее",
+          "transcription": "ˈmæmᵊl"
+        },
+        {
+          "original": "aardvark",
+          "translation": "трубкозуб",
+          "transcription": "ˈɑːdvɑːk"
+        },
+        {
+          "original": "scorpion",
+          "translation": "скорпион",
+          "transcription": "ˈskɔːpiən"
+        },
+        {
+          "original": "cassowary",
+          "translation": "казуар",
+          "transcription": "ˈkæsəweəri"
+        },
+        {
+          "original": "anteater",
+          "translation": "муравьед",
+          "transcription": "ˈæntˌiːtə"
+        },
+        {
+          "original": "kangaroo",
+          "translation": "кенгуру",
+          "transcription": "ˌkæŋɡəˈruː"
+        },
+        {
+          "original": "butterfly",
+          "translation": "бабочка",
+          "transcription": "ˈbʌtəflaɪ"
+        },
+        {
+          "original": "firefly",
+          "translation": "светлячок",
+          "transcription": "ˈfaɪəflaɪ"
+        },
+        {
+          "original": "basilisk",
+          "translation": "василиск",
+          "transcription": "ˈbæzɪlɪsk"
+        },
+        {
+          "original": "unicorn",
+          "translation": "единорог",
+          "transcription": "ˈjuːnɪkɔːn"
+        },
+        {
+          "original": "cormorant",
+          "translation": "баклан",
+          "transcription": "ˈkɔːmᵊrənt"
+        },
+        {
+          "original": "spoonbill",
+          "translation": "колпица",
+          "transcription": "ˈspuːnbɪl"
+        },
+        {
+          "original": "partridge",
+          "translation": "куропатка",
+          "transcription": "ˈpɑːtrɪʤ"
+        },
+        {
+          "original": "chinchilla",
+          "translation": "шиншилла",
+          "transcription": "ʧɪnˈʧɪlə"
+        },
+        {
+          "original": "flamingo",
+          "translation": "фламинго",
+          "transcription": "fləˈmɪŋɡəʊ"
+        },
+        {
+          "original": "eagle owl",
+          "translation": "филин",
+          "transcription": "ˈiːɡᵊl aʊl"
+        },
+        {
+          "original": "capybara",
+          "translation": "капибара",
+          "transcription": "ˌkæpɪˈbɑːrə"
+        },
+        {
+          "original": "albatross",
+          "translation": "альбатрос",
+          "transcription": "ˈælbətrɒs"
+        },
+        {
+          "original": "alligator",
+          "translation": "аллигатор",
+          "transcription": "ˈælɪɡeɪtə"
+        },
+        {
+          "original": "crocodile",
+          "translation": "крокодил",
+          "transcription": "ˈkrɒkədaɪl"
+        }
+      ]
+    },
+    {
+      "name": "Семья",
+      "words": [
+        {
+          "original": "father",
+          "translation": "отец",
+          "transcription": "ˈfɑːðə"
+        },
+        {
+          "original": "mother",
+          "translation": "мама",
+          "transcription": "ˈmʌðə"
+        },
+        {
+          "original": "parents",
+          "translation": "родители",
+          "transcription": "ˈpeərənts"
+        },
+        {
+          "original": "son",
+          "translation": "сын",
+          "transcription": "sʌn"
+        },
+        {
+          "original": "daughter",
+          "translation": "дочь",
+          "transcription": "ˈdɔːtə"
+        },
+        {
+          "original": "child",
+          "translation": "ребенок",
+          "transcription": "ʧaɪld"
+        },
+        {
+          "original": "children",
+          "translation": "дети",
+          "transcription": "ˈʧɪldrən"
+        },
+        {
+          "original": "offspring",
+          "translation": "отпрыск",
+          "transcription": "ˈɒfsprɪŋ"
+        },
+        {
+          "original": "brother",
+          "translation": "брат",
+          "transcription": "ˈbrʌðə"
+        },
+        {
+          "original": "sister",
+          "translation": "сестра",
+          "transcription": "ˈsɪstə"
+        },
+        {
+          "original": "sibling",
+          "translation": "родной брат",
+          "transcription": "ˈsɪblɪŋ"
+        },
+        {
+          "original": "siblings",
+          "translation": "братья и сестры",
+          "transcription": "ˈsɪblɪŋz"
+        },
+        {
+          "original": "twins",
+          "translation": "близнецы",
+          "transcription": "twɪnz"
+        },
+        {
+          "original": "twin brothers",
+          "translation": "братья-близнецы",
+          "transcription": "twɪn brʌðəz"
+        },
+        {
+          "original": "twin brother",
+          "translation": "брат-близнец",
+          "transcription": "twɪn brʌðə"
+        },
+        {
+          "original": "twin sisters",
+          "translation": "сестры-близнецы",
+          "transcription": "twɪn sɪstəz"
+        },
+        {
+          "original": "twin sister",
+          "translation": "сестра-близнец",
+          "transcription": "twɪn sɪstə"
+        },
+        {
+          "original": "younger brother",
+          "translation": "младший брат",
+          "transcription": "ˈjʌŋə ˈbrʌðə"
+        },
+        {
+          "original": "kid brother",
+          "translation": "младший брат",
+          "transcription": "kɪd ˈbrʌðə"
+        },
+        {
+          "original": "older sister",
+          "translation": "старшая сестра",
+          "transcription": "ˈəʊldə ˈsɪstə"
+        },
+        {
+          "original": "elder sister",
+          "translation": "старшая сестра",
+          "transcription": "ˈɛldə ˈsɪstə"
+        },
+        {
+          "original": "to bring up children",
+          "translation": "воспитывать детей",
+          "transcription": "tuː brɪŋ ʌp ˈʧɪldrən"
+        },
+        {
+          "original": "to raise children",
+          "translation": "растить детей",
+          "transcription": "tuː reɪz ˈʧɪldrən"
+        },
+        {
+          "original": "grandfather",
+          "translation": "дедушка",
+          "transcription": "ˈgrændˌfɑːðə"
+        },
+        {
+          "original": "grandmother",
+          "translation": "бабушка",
+          "transcription": "ˈgrænˌmʌðə"
+        },
+        {
+          "original": "granny",
+          "translation": "бабулька",
+          "transcription": "ˈgræni"
+        },
+        {
+          "original": "grandparents",
+          "translation": "бабушка с дедушкой",
+          "transcription": "ˈgrænˌpeərənts"
+        },
+        {
+          "original": "grandson",
+          "translation": "внук",
+          "transcription": "ˈgrænsʌn"
+        },
+        {
+          "original": "granddaughter",
+          "translation": "внучка",
+          "transcription": "ˈgrænˌdɔːtə"
+        },
+        {
+          "original": "grandchild",
+          "translation": "внук",
+          "transcription": "ˈgrænʧaɪld"
+        },
+        {
+          "original": "grandchildren",
+          "translation": "внучата",
+          "transcription": "ˈgrænʧɪldrən"
+        },
+        {
+          "original": "great-grandfather",
+          "translation": "прадедушка",
+          "transcription": "ˈgreɪt ˈgrændˌfɑːðə"
+        },
+        {
+          "original": "great-grandmother",
+          "translation": "прабабушка",
+          "transcription": "greɪt ˈgrænˌmʌðə"
+        },
+        {
+          "original": "great-grandchild",
+          "translation": "правнук",
+          "transcription": "ˈgreɪt ˈgrændʧaɪld"
+        },
+        {
+          "original": "adopted son",
+          "translation": "приемный сын",
+          "transcription": "əˈdɒptɪd sʌn"
+        },
+        {
+          "original": "adopted daughter",
+          "translation": "приемная дочь",
+          "transcription": "əˈdɒptɪd ˈdɔːtə"
+        },
+        {
+          "original": "adopted child",
+          "translation": "усыновленный ребенок",
+          "transcription": "əˈdɒptɪd ʧaɪld"
+        },
+        {
+          "original": "half-brother",
+          "translation": "сводный брат",
+          "transcription": "ˈhɑːf ˌbrʌðə"
+        },
+        {
+          "original": "half-sister",
+          "translation": "сводная сестра",
+          "transcription": "ˈhɑːf ˈsɪstə"
+        },
+        {
+          "original": "stepfather",
+          "translation": "отчим",
+          "transcription": "ˈstɛpˌfɑːðə"
+        },
+        {
+          "original": "stepmother",
+          "translation": "мачеха",
+          "transcription": "ˈstɛpˌmʌðə"
+        },
+        {
+          "original": "stepbrother",
+          "translation": "сводный брат",
+          "transcription": "ˈstɛpˌbrʌðə"
+        },
+        {
+          "original": "stepsister",
+          "translation": "сводная сестра",
+          "transcription": "ˈstɛpˌsɪstə"
+        },
+        {
+          "original": "stepchild",
+          "translation": "пасынок",
+          "transcription": "ˈstɛpʧaɪld"
+        },
+        {
+          "original": "foster family",
+          "translation": "приемная семья",
+          "transcription": "ˈfɒstə ˈfæmɪli"
+        },
+        {
+          "original": "foster father",
+          "translation": "приемный отец",
+          "transcription": "ˈfɒstə ˈfɑːðə"
+        },
+        {
+          "original": "foster mother",
+          "translation": "приемная мать",
+          "transcription": "ˈfɒstə ˈmʌðə"
+        },
+        {
+          "original": "foster parents",
+          "translation": "приемные родители",
+          "transcription": "ˈfɒstə ˈpeərənts"
+        },
+        {
+          "original": "foster home",
+          "translation": "приемная семья",
+          "transcription": "ˈfɒstə həʊm"
+        },
+        {
+          "original": "foster son",
+          "translation": "приемный сын",
+          "transcription": "ˈfɒstə sʌn"
+        },
+        {
+          "original": "foster daughter",
+          "translation": "приемная дочь",
+          "transcription": "ˈfɒstə ˈdɔːtə"
+        },
+        {
+          "original": "foster child",
+          "translation": "приемный ребенок",
+          "transcription": "ˈfɒstə ʧaɪld"
+        },
+        {
+          "original": "foster brother",
+          "translation": "приемный брат",
+          "transcription": "ˈfɒstə ˈbrʌðə"
+        },
+        {
+          "original": "foster sister",
+          "translation": "приемная сестра",
+          "transcription": "ˈfɒstə ˈsɪstə"
+        },
+        {
+          "original": "to adopt a child",
+          "translation": "усыновить ребенка",
+          "transcription": "tuː əˈdɒpt ə ʧaɪld"
+        },
+        {
+          "original": "to foster a child",
+          "translation": "усыновить ребенка",
+          "transcription": "tuː ˈfɒstər ə ʧaɪld"
+        },
+        {
+          "original": "orphan",
+          "translation": "сирота",
+          "transcription": "ˈɔːfən"
+        },
+        {
+          "original": "uncle",
+          "translation": "дядя",
+          "transcription": "ˈʌŋkl"
+        },
+        {
+          "original": "aunt",
+          "translation": "тетя",
+          "transcription": "ɑːnt"
+        },
+        {
+          "original": "nephew",
+          "translation": "племянник",
+          "transcription": "ˈnɛvjuː"
+        },
+        {
+          "original": "niece",
+          "translation": "племянница",
+          "transcription": "niːs"
+        },
+        {
+          "original": "cousin",
+          "translation": "двоюродный брат",
+          "transcription": "ˈkʌzn"
+        },
+        {
+          "original": "first cousin",
+          "translation": "двоюродный брат",
+          "transcription": "fɜːst ˈkʌzn"
+        },
+        {
+          "original": "second cousin",
+          "translation": "троюродный брат",
+          "transcription": "ˈsɛkənd ˈkʌzn"
+        },
+        {
+          "original": "close relatives",
+          "translation": "близкие родственники",
+          "transcription": "kləʊs ˈrɛlətɪvz"
+        },
+        {
+          "original": "distant relatives",
+          "translation": "дальние родственники",
+          "transcription": "ˈdɪstənt ˈrɛlətɪvz"
+        },
+        {
+          "original": "single",
+          "translation": "не замужем",
+          "transcription": "ˈsɪŋgl"
+        },
+        {
+          "original": "married",
+          "translation": "состоящий в браке",
+          "transcription": "ˈmærɪd"
+        },
+        {
+          "original": "engaged",
+          "translation": "обрученный",
+          "transcription": "ɪnˈgeɪʤd"
+        },
+        {
+          "original": "separated",
+          "translation": "разведенный",
+          "transcription": "ˈsɛpəreɪtɪd"
+        },
+        {
+          "original": "divorced",
+          "translation": "разведенный",
+          "transcription": "dɪˈvɔːst"
+        },
+        {
+          "original": "widowed",
+          "translation": "овдовевший",
+          "transcription": "ˈwɪdəʊd"
+        },
+        {
+          "original": "to marry",
+          "translation": "выйти замуж",
+          "transcription": "tuː ˈmæri"
+        },
+        {
+          "original": "to get married",
+          "translation": "жениться",
+          "transcription": "tuː gɛt ˈmærɪd"
+        },
+        {
+          "original": "marriage",
+          "translation": "брак",
+          "transcription": "ˈmærɪʤ"
+        },
+        {
+          "original": "husband",
+          "translation": "муж",
+          "transcription": "ˈhʌzbənd"
+        },
+        {
+          "original": "wife",
+          "translation": "жена",
+          "transcription": "waɪf"
+        },
+        {
+          "original": "spouse",
+          "translation": "супруг",
+          "transcription": "spaʊz"
+        },
+        {
+          "original": "ex-husband",
+          "translation": "бывший муж",
+          "transcription": "ɛks hʌzbənd"
+        },
+        {
+          "original": "ex-wife",
+          "translation": "бывшая жена",
+          "transcription": "ɛks waɪf"
+        },
+        {
+          "original": "divorce",
+          "translation": "расторжение брака",
+          "transcription": "dɪˈvɔːs"
+        }
+      ]
+    },
+    {
+      "name": "Еда",
+      "words": [
+        {
+          "original": "bacon",
+          "translation": "бекон",
+          "transcription": "ˈbeɪkən"
+        },
+        {
+          "original": "beef",
+          "translation": "говядина",
+          "transcription": "biːf"
+        },
+        {
+          "original": "chicken",
+          "translation": "курица",
+          "transcription": "ˈʧɪkɪn"
+        },
+        {
+          "original": "cooked meat",
+          "translation": "приготовленное мясо",
+          "transcription": "kʊkt miːt"
+        },
+        {
+          "original": "duck",
+          "translation": "утка",
+          "transcription": "dʌk"
+        },
+        {
+          "original": "ham",
+          "translation": "ветчина",
+          "transcription": "hæm"
+        },
+        {
+          "original": "kidneys",
+          "translation": "почки",
+          "transcription": "ˈkɪdniz"
+        },
+        {
+          "original": "liver",
+          "translation": "печень",
+          "transcription": "ˈlɪvə"
+        },
+        {
+          "original": "salami",
+          "translation": "салями",
+          "transcription": "səˈlɑːmi(ː)"
+        },
+        {
+          "original": "sausages",
+          "translation": "колбасы",
+          "transcription": "ˈsɒsɪʤɪz"
+        },
+        {
+          "original": "pork",
+          "translation": "свинина",
+          "transcription": "pɔːk"
+        },
+        {
+          "original": "pork pie",
+          "translation": "пирог со свининой",
+          "transcription": "pɔːk paɪ"
+        },
+        {
+          "original": "sausage roll",
+          "translation": "сосиска в тесте",
+          "transcription": "ˈsɒsɪʤ rəʊl"
+        },
+        {
+          "original": "turkey",
+          "translation": "индейка",
+          "transcription": "ˈtɜːki"
+        },
+        {
+          "original": "veal",
+          "translation": "телятина",
+          "transcription": "viːl"
+        },
+        {
+          "original": "apple",
+          "translation": "яблоко",
+          "transcription": "ˈæpl"
+        },
+        {
+          "original": "apricot",
+          "translation": "абрикос",
+          "transcription": "ˈeɪprɪkɒt"
+        },
+        {
+          "original": "banana",
+          "translation": "банан",
+          "transcription": "bəˈnɑːnə"
+        },
+        {
+          "original": "blackberry",
+          "translation": "ежевика",
+          "transcription": "ˈblækbəri"
+        },
+        {
+          "original": "blackcurrant",
+          "translation": "черная смородина",
+          "transcription": "ˈblækˈkʌrənt"
+        },
+        {
+          "original": "blueberry",
+          "translation": "черника",
+          "transcription": "ˈbluːbəri"
+        },
+        {
+          "original": "cherry",
+          "translation": "вишня",
+          "transcription": "ˈʧɛri"
+        },
+        {
+          "original": "coconut",
+          "translation": "кокос",
+          "transcription": "ˈkəʊkənʌt"
+        },
+        {
+          "original": "fig",
+          "translation": "инжир",
+          "transcription": "fɪg"
+        },
+        {
+          "original": "gooseberry",
+          "translation": "крыжовник",
+          "transcription": "ˈgʊzbəri"
+        },
+        {
+          "original": "grape",
+          "translation": "виноград",
+          "transcription": "greɪp"
+        },
+        {
+          "original": "grapefruit",
+          "translation": "грейпфрут",
+          "transcription": "ˈgreɪpˌfruːt"
+        },
+        {
+          "original": "kiwi fruit",
+          "translation": "киви",
+          "transcription": "ˈkiːwi(ː) fruːt"
+        },
+        {
+          "original": "lemon",
+          "translation": "лимон",
+          "transcription": "ˈlɛmən"
+        },
+        {
+          "original": "lime",
+          "translation": "лайм",
+          "transcription": "laɪm"
+        },
+        {
+          "original": "mango",
+          "translation": "манго",
+          "transcription": "ˈmæŋgəʊ"
+        },
+        {
+          "original": "melon",
+          "translation": "дыня",
+          "transcription": "ˈmɛlən"
+        },
+        {
+          "original": "orange",
+          "translation": "апельсин",
+          "transcription": "ˈɒrɪnʤ"
+        },
+        {
+          "original": "peach",
+          "translation": "персик",
+          "transcription": "piːʧ"
+        },
+        {
+          "original": "pear",
+          "translation": "груша",
+          "transcription": "peə"
+        },
+        {
+          "original": "pineapple",
+          "translation": "ананас",
+          "transcription": "ˈpaɪnˌæpl"
+        },
+        {
+          "original": "plum",
+          "translation": "слива",
+          "transcription": "plʌm"
+        },
+        {
+          "original": "pomegranate",
+          "translation": "гранат",
+          "transcription": "ˈpɒmˌgrænɪt"
+        },
+        {
+          "original": "raspberry",
+          "translation": "малина",
+          "transcription": "ˈrɑːzbəri"
+        },
+        {
+          "original": "rhubarb",
+          "translation": "ревень",
+          "transcription": "ˈruːbɑːb"
+        },
+        {
+          "original": "strawberry",
+          "translation": "клубника",
+          "transcription": "ˈstrɔːbəri"
+        },
+        {
+          "original": "anchovy",
+          "translation": "анчоусы",
+          "transcription": "ˈænʧəvi"
+        },
+        {
+          "original": "cod",
+          "translation": "треска",
+          "transcription": "kɒd"
+        },
+        {
+          "original": "haddock",
+          "translation": "пикша",
+          "transcription": "ˈhædək"
+        },
+        {
+          "original": "herring",
+          "translation": "сельдь",
+          "transcription": "ˈhɛrɪŋ"
+        },
+        {
+          "original": "mackerel",
+          "translation": "скумбрия",
+          "transcription": "ˈmækrəl"
+        },
+        {
+          "original": "pilchard",
+          "translation": "сардина",
+          "transcription": "ˈpɪlʧəd"
+        },
+        {
+          "original": "plaice",
+          "translation": "камбала",
+          "transcription": "pleɪs"
+        },
+        {
+          "original": "salmon",
+          "translation": "лосось",
+          "transcription": "ˈsæmən"
+        },
+        {
+          "original": "sardine",
+          "translation": "сардина",
+          "transcription": "sɑːˈdiːn"
+        },
+        {
+          "original": "smoked salmon",
+          "translation": "копченый лосось",
+          "transcription": "sməʊkt ˈsæmən"
+        },
+        {
+          "original": "sole",
+          "translation": "единственный",
+          "transcription": "səʊl"
+        },
+        {
+          "original": "trout",
+          "translation": "форель",
+          "transcription": "traʊt"
+        },
+        {
+          "original": "tuna",
+          "translation": "тунец",
+          "transcription": "ˈtuːnə"
+        },
+        {
+          "original": "artichoke",
+          "translation": "артишок",
+          "transcription": "ˈɑːtɪʧəʊk"
+        },
+        {
+          "original": "asparagus",
+          "translation": "спаржа",
+          "transcription": "əsˈpærəgəs"
+        },
+        {
+          "original": "aubergine",
+          "translation": "баклажан",
+          "transcription": "ˈəʊbəʤiːn"
+        },
+        {
+          "original": "avocado",
+          "translation": "авокадо",
+          "transcription": "ˌævəʊˈkɑːdəʊ"
+        },
+        {
+          "original": "beetroot",
+          "translation": "свекла",
+          "transcription": "ˈbiːtruːt"
+        },
+        {
+          "original": "broad beans",
+          "translation": "бобы",
+          "transcription": "brɔːd biːnz"
+        },
+        {
+          "original": "broccoli",
+          "translation": "брокколи",
+          "transcription": "ˈbrɒkəli"
+        },
+        {
+          "original": "Brussels sprouts",
+          "translation": "брюссельская капуста",
+          "transcription": "ˈbrʌsəlz spraʊts"
+        },
+        {
+          "original": "cabbage",
+          "translation": "капуста",
+          "transcription": "ˈkæbɪʤ"
+        },
+        {
+          "original": "carrot",
+          "translation": "морковь",
+          "transcription": "ˈkærət"
+        },
+        {
+          "original": "cauliflower",
+          "translation": "цветная капуста",
+          "transcription": "ˈkɒlɪflaʊə"
+        },
+        {
+          "original": "celery",
+          "translation": "сельдерей",
+          "transcription": "ˈsɛləri"
+        },
+        {
+          "original": "chilli pepper",
+          "translation": "перец чили",
+          "transcription": "ˈʧɪli ˈpɛpə"
+        },
+        {
+          "original": "courgette",
+          "translation": "кабачок",
+          "transcription": "kʊəˈʒɛt"
+        },
+        {
+          "original": "cucumber",
+          "translation": "огурец",
+          "transcription": "ˈkjuːkʌmbə"
+        },
+        {
+          "original": "French beans",
+          "translation": "фасоль",
+          "transcription": "frɛnʧ biːnz"
+        },
+        {
+          "original": "garlic",
+          "translation": "чеснок",
+          "transcription": "ˈgɑːlɪk"
+        },
+        {
+          "original": "ginger",
+          "translation": "имбирь",
+          "transcription": "ˈʤɪnʤə"
+        },
+        {
+          "original": "leek",
+          "translation": "лук-порей",
+          "transcription": "liːk"
+        },
+        {
+          "original": "lettuce",
+          "translation": "латук",
+          "transcription": "ˈlɛtɪs"
+        },
+        {
+          "original": "mushroom",
+          "translation": "гриб",
+          "transcription": "ˈmʌʃrʊm"
+        },
+        {
+          "original": "onion",
+          "translation": "лук",
+          "transcription": "ˈʌnjən"
+        },
+        {
+          "original": "peas",
+          "translation": "горох",
+          "transcription": "piːz"
+        },
+        {
+          "original": "pepper",
+          "translation": "перец",
+          "transcription": "ˈpɛpə"
+        },
+        {
+          "original": "potato",
+          "translation": "картошка",
+          "transcription": "pəˈteɪtəʊ"
+        },
+        {
+          "original": "pumpkin",
+          "translation": "тыква",
+          "transcription": "ˈpʌmpkɪn"
+        },
+        {
+          "original": "radish",
+          "translation": "редис",
+          "transcription": "ˈrædɪʃ"
+        },
+        {
+          "original": "runner beans",
+          "translation": "фасоль стручковая",
+          "transcription": "ˈrʌnə biːnz"
+        },
+        {
+          "original": "swede",
+          "translation": "брюква",
+          "transcription": "swiːd"
+        },
+        {
+          "original": "sweet potato",
+          "translation": "сладкая картошка",
+          "transcription": "swiːt pəˈteɪtəʊ"
+        },
+        {
+          "original": "sweetcorn",
+          "translation": "сладкая кукуруза",
+          "transcription": "ˈswiːtkɔːn"
+        },
+        {
+          "original": "tomato",
+          "translation": "помидор",
+          "transcription": "təˈmɑːtəʊ"
+        },
+        {
+          "original": "turnip",
+          "translation": "репа",
+          "transcription": "ˈtɜːnɪp"
+        },
+        {
+          "original": "spinach",
+          "translation": "шпинат",
+          "transcription": "ˈspɪnɪʤ"
+        },
+        {
+          "original": "spring onion",
+          "translation": "зеленый лук",
+          "transcription": "sprɪŋ ˈʌnjən"
+        },
+        {
+          "original": "squash",
+          "translation": "давить",
+          "transcription": "skwɒʃ"
+        },
+        {
+          "original": "clove of garlic",
+          "translation": "зубчик чеснока",
+          "transcription": "kləʊv ɒv ˈgɑːlɪk"
+        },
+        {
+          "original": "stick of celery",
+          "translation": "палочка сельдерея",
+          "transcription": "stɪk ɒv ˈsɛləri"
+        },
+        {
+          "original": "baked beans",
+          "translation": "запеченные бобы",
+          "transcription": "beɪkt biːnz"
+        },
+        {
+          "original": "corned beef",
+          "translation": "солонина",
+          "transcription": "kɔːnd biːf"
+        },
+        {
+          "original": "kidney beans",
+          "translation": "фасоль",
+          "transcription": "ˈkɪdni biːnz"
+        },
+        {
+          "original": "soup",
+          "translation": "суп",
+          "transcription": "suːp"
+        },
+        {
+          "original": "tinned tomatoes",
+          "translation": "консервированные помидоры",
+          "transcription": "tɪnd təˈmɑːtəʊz"
+        },
+        {
+          "original": "chips",
+          "translation": "чипсы",
+          "transcription": "ʧɪps"
+        },
+        {
+          "original": "fish fingers",
+          "translation": "рыбные палочки",
+          "transcription": "fɪʃ ˈfɪŋgəz"
+        },
+        {
+          "original": "frozen peas",
+          "translation": "замороженный горошек",
+          "transcription": "ˈfrəʊzn piːz"
+        }
+      ]
+    },
+    {
+      "name": "Еда 2",
+      "words": [
+        {
+          "original": "frozen pizza",
+          "translation": "замороженная пицца",
+          "transcription": "frəʊzn piːtsə"
+        },
+        {
+          "original": "ice cream",
+          "translation": "мороженое",
+          "transcription": "aɪs kriːm"
+        },
+        {
+          "original": "cooking oil",
+          "translation": "растительное масло",
+          "transcription": "kʊkɪŋ ɔɪl"
+        },
+        {
+          "original": "olive oil",
+          "translation": "оливковое масло",
+          "transcription": "ɒlɪv ɔɪl"
+        },
+        {
+          "original": "stock cubes",
+          "translation": "бульонные кубики",
+          "transcription": "stɒk kjuːbz"
+        },
+        {
+          "original": "tomato purée",
+          "translation": "томатное пюре",
+          "transcription": "təˈmɑːtəʊ pjʊəreɪ"
+        },
+        {
+          "original": "Butter",
+          "translation": "масло",
+          "transcription": "bʌtə"
+        },
+        {
+          "original": "cream",
+          "translation": "сливки",
+          "transcription": "kriːm"
+        },
+        {
+          "original": "cheese",
+          "translation": "сыр",
+          "transcription": "ʧiːz"
+        },
+        {
+          "original": "blue cheese",
+          "translation": "голубой сыр",
+          "transcription": "bluː ʧiːz"
+        },
+        {
+          "original": "cottage cheese",
+          "translation": "творог",
+          "transcription": "kɒtɪʤ ʧiːz"
+        },
+        {
+          "original": "goats cheese",
+          "translation": "козий сыр",
+          "transcription": "gəʊts ʧiːz"
+        },
+        {
+          "original": "eggs",
+          "translation": "яйца",
+          "transcription": "ɛgz"
+        },
+        {
+          "original": "margarine",
+          "translation": "маргарин",
+          "transcription": "mɑːʤəriːn"
+        },
+        {
+          "original": "milk",
+          "translation": "молоко",
+          "transcription": "mɪlk"
+        },
+        {
+          "original": "full-fat milk",
+          "translation": "жирное молоко",
+          "transcription": "fʊl fæt mɪlk"
+        },
+        {
+          "original": "skimmed milk",
+          "translation": "обезжиренное молоко",
+          "transcription": "skɪmd mɪlk"
+        },
+        {
+          "original": "sour cream",
+          "translation": "сметана",
+          "transcription": "saʊə kriːm"
+        },
+        {
+          "original": "yoghurt",
+          "translation": "йогурт",
+          "transcription": "jɒgət"
+        },
+        {
+          "original": "baguette",
+          "translation": "багет",
+          "transcription": "bægɛt"
+        },
+        {
+          "original": "bread rolls",
+          "translation": "булочки",
+          "transcription": "brɛd rəʊlz"
+        },
+        {
+          "original": "brown bread",
+          "translation": "черный хлеб",
+          "transcription": "braʊn brɛd"
+        },
+        {
+          "original": "white bread",
+          "translation": "белый хлеб",
+          "transcription": "waɪt brɛd"
+        },
+        {
+          "original": "garlic bread",
+          "translation": "чесночный хлеб",
+          "transcription": "gɑːlɪk brɛd"
+        },
+        {
+          "original": "pitta bread",
+          "translation": "пита",
+          "transcription": "pɪtə brɛd"
+        },
+        {
+          "original": "sliced loaf",
+          "translation": "нарезанный хлеб",
+          "transcription": "slaɪst ləʊf"
+        },
+        {
+          "original": "cake",
+          "translation": "кекс",
+          "transcription": "keɪk"
+        },
+        {
+          "original": "sponge cake",
+          "translation": "бисквит",
+          "transcription": "spʌnʤ keɪk"
+        },
+        {
+          "original": "plain flour",
+          "translation": "пшеничная мука",
+          "transcription": "pleɪn flaʊə"
+        },
+        {
+          "original": "cornflour",
+          "translation": "кукурузная мука",
+          "transcription": "kɔːnflaʊə"
+        },
+        {
+          "original": "sugar",
+          "translation": "сахар",
+          "transcription": "ʃʊgə"
+        },
+        {
+          "original": "brown sugar",
+          "translation": "коричневый сахар",
+          "transcription": "braʊn ʃʊgə"
+        },
+        {
+          "original": "icing sugar",
+          "translation": "сахарная пудра",
+          "transcription": "aɪsɪŋ ʃʊgə"
+        },
+        {
+          "original": "pastry",
+          "translation": "выпечка",
+          "transcription": "peɪstri"
+        },
+        {
+          "original": "yeast",
+          "translation": "дрожжи",
+          "transcription": "jiːst"
+        },
+        {
+          "original": "dried apricots",
+          "translation": "курага",
+          "transcription": "draɪd eɪprɪkɒts"
+        },
+        {
+          "original": "prunes",
+          "translation": "чернослив",
+          "transcription": "pruːnz"
+        },
+        {
+          "original": "dates",
+          "translation": "финики",
+          "transcription": "deɪts"
+        },
+        {
+          "original": "raisins",
+          "translation": "изюм",
+          "transcription": "reɪznz"
+        },
+        {
+          "original": "breakfast cereal",
+          "translation": "сухой завтрак",
+          "transcription": "brɛkfəst sɪərɪəl"
+        },
+        {
+          "original": "cornflakes",
+          "translation": "кукурузные хлопья",
+          "transcription": "kɔːnfleɪks"
+        },
+        {
+          "original": "honey",
+          "translation": "мёд",
+          "transcription": "hʌni"
+        },
+        {
+          "original": "jam",
+          "translation": "варенье",
+          "transcription": "ʤæm"
+        },
+        {
+          "original": "marmalade",
+          "translation": "мармелад",
+          "transcription": "mɑːməleɪd"
+        },
+        {
+          "original": "muesli",
+          "translation": "мюсли",
+          "transcription": "mjuːzli"
+        },
+        {
+          "original": "porridge",
+          "translation": "каша",
+          "transcription": "pɒrɪʤ"
+        },
+        {
+          "original": "toast",
+          "translation": "тост",
+          "transcription": "təʊst"
+        },
+        {
+          "original": "noodles",
+          "translation": "лапша",
+          "transcription": "nuːdlz"
+        },
+        {
+          "original": "pasta",
+          "translation": "макаронные изделия",
+          "transcription": "pæstə"
+        },
+        {
+          "original": "pasta sauce",
+          "translation": "соус для пасты",
+          "transcription": "pæstə sɔːs"
+        },
+        {
+          "original": "pizza",
+          "translation": "пицца",
+          "transcription": "piːtsə"
+        },
+        {
+          "original": "rice",
+          "translation": "рис",
+          "transcription": "raɪs"
+        },
+        {
+          "original": "spaghetti",
+          "translation": "спагетти",
+          "transcription": "spəgɛti"
+        },
+        {
+          "original": "ketchup",
+          "translation": "кетчуп",
+          "transcription": "kɛʧəp"
+        },
+        {
+          "original": "mayonnaise",
+          "translation": "майонез",
+          "transcription": "meɪəneɪz"
+        },
+        {
+          "original": "mustard",
+          "translation": "горчица",
+          "transcription": "mʌstəd"
+        },
+        {
+          "original": "pepper",
+          "translation": "перец",
+          "transcription": "pɛpə"
+        },
+        {
+          "original": "salad dressing",
+          "translation": "заправка для салата",
+          "transcription": "sæləd drɛsɪŋ"
+        },
+        {
+          "original": "salt",
+          "translation": "поваренная соль",
+          "transcription": "sɒlt"
+        },
+        {
+          "original": "vinaigrette",
+          "translation": "винегрет",
+          "transcription": "vɪneɪgrɛt"
+        },
+        {
+          "original": "vinegar",
+          "translation": "уксус",
+          "transcription": "vɪnɪgə"
+        },
+        {
+          "original": "biscuits",
+          "translation": "печенье",
+          "transcription": "bɪskɪts"
+        },
+        {
+          "original": "chocolate",
+          "translation": "шоколад",
+          "transcription": "ʧɒkəlɪt"
+        },
+        {
+          "original": "crisps",
+          "translation": "чипсы",
+          "transcription": "krɪsps"
+        },
+        {
+          "original": "hummus",
+          "translation": "хумус",
+          "transcription": "hʊməs"
+        },
+        {
+          "original": "nuts",
+          "translation": "орехи",
+          "transcription": "nʌts"
+        },
+        {
+          "original": "olives",
+          "translation": "оливки",
+          "transcription": "ɒlɪvz"
+        },
+        {
+          "original": "peanuts",
+          "translation": "арахис",
+          "transcription": "piːnʌts"
+        },
+        {
+          "original": "sweets",
+          "translation": "сладости",
+          "transcription": "swiːts"
+        },
+        {
+          "original": "walnuts",
+          "translation": "грецкие орехи",
+          "transcription": "wɔːlnʌts"
+        },
+        {
+          "original": "basil",
+          "translation": "базилик",
+          "transcription": "bæzl"
+        },
+        {
+          "original": "chives",
+          "translation": "чеснок",
+          "transcription": "ʧaɪvz"
+        },
+        {
+          "original": "coriander",
+          "translation": "кориандр",
+          "transcription": "kɒriændə"
+        },
+        {
+          "original": "dill",
+          "translation": "укроп",
+          "transcription": "dɪl"
+        },
+        {
+          "original": "parsley",
+          "translation": "петрушка",
+          "transcription": "pɑːsli"
+        },
+        {
+          "original": "rosemary",
+          "translation": "розмари",
+          "transcription": "rəʊzməri"
+        },
+        {
+          "original": "sage",
+          "translation": "шалфей",
+          "transcription": "seɪʤ"
+        },
+        {
+          "original": "thyme",
+          "translation": "чабрец",
+          "transcription": "taɪm"
+        },
+        {
+          "original": "cinnamon",
+          "translation": "корица",
+          "transcription": "sɪnəmən"
+        },
+        {
+          "original": "cumin",
+          "translation": "тмин",
+          "transcription": "kʌmɪn"
+        },
+        {
+          "original": "nutmeg",
+          "translation": "мускатный орех",
+          "transcription": "nʌtmɛg"
+        },
+        {
+          "original": "paprika",
+          "translation": "перец",
+          "transcription": "pæprikə"
+        },
+        {
+          "original": "saffron",
+          "translation": "шафран",
+          "transcription": "sæfrən"
+        },
+        {
+          "original": "organic",
+          "translation": "органический",
+          "transcription": "ɔːgænɪk"
+        },
+        {
+          "original": "ready meal",
+          "translation": "готовая еда",
+          "transcription": "rɛdi miːl"
+        }
+      ]
+    },
+    {
+      "name": "Профессии",
+      "words": [
+        {
+          "original": "president",
+          "translation": "президент",
+          "transcription": "prɛzɪdənt"
+        },
+        {
+          "original": "vice-president",
+          "translation": "вице-президент",
+          "transcription": "vaɪs prɛzɪdənt"
+        },
+        {
+          "original": "director",
+          "translation": "директор",
+          "transcription": "dɪrɛktə"
+        },
+        {
+          "original": "manager",
+          "translation": "менеджер",
+          "transcription": "mænɪʤə"
+        },
+        {
+          "original": "executive officer",
+          "translation": "исполнительный директор",
+          "transcription": "ɪgzɛkjʊtɪv ɒfɪsə"
+        },
+        {
+          "original": "managing director",
+          "translation": "управляющий директор",
+          "transcription": "mænɪʤɪŋ dɪrɛktə"
+        },
+        {
+          "original": "financial director",
+          "translation": "финансовый директор",
+          "transcription": "faɪnænʃəl dɪrɛktə"
+        },
+        {
+          "original": "marketing director",
+          "translation": "директор по маркетингу",
+          "transcription": "mɑːkɪtɪŋ dɪrɛktə"
+        },
+        {
+          "original": "general manager",
+          "translation": "генеральный директор",
+          "transcription": "ʤɛnərəl mænɪʤə"
+        },
+        {
+          "original": "assistant manager",
+          "translation": "помощник менеджера",
+          "transcription": "əsɪstənt mænɪʤə"
+        },
+        {
+          "original": "office worker",
+          "translation": "офисный работник",
+          "transcription": "ɒfɪs wɜːkə"
+        },
+        {
+          "original": "office employee",
+          "translation": "офисный работник",
+          "transcription": "ɒfɪs ɛmplɔɪiː"
+        },
+        {
+          "original": "office clerk",
+          "translation": "офисный клерк",
+          "transcription": "ɒfɪs klɑːk"
+        },
+        {
+          "original": "receptionist",
+          "translation": "секретарь",
+          "transcription": "rɪsɛpʃənɪst"
+        },
+        {
+          "original": "secretary",
+          "translation": "секретарша",
+          "transcription": "sɛkrətri"
+        },
+        {
+          "original": "assistant",
+          "translation": "помощник",
+          "transcription": "əsɪstənt"
+        },
+        {
+          "original": "banker",
+          "translation": "банкир",
+          "transcription": "bæŋkə"
+        },
+        {
+          "original": "bank officer",
+          "translation": "сотрудник банка",
+          "transcription": "bæŋk ɒfɪsə"
+        },
+        {
+          "original": "economist",
+          "translation": "экономист",
+          "transcription": "ikɒnəmɪst"
+        },
+        {
+          "original": "auditor",
+          "translation": "аудитор",
+          "transcription": "ɔːdɪtə"
+        },
+        {
+          "original": "accountant",
+          "translation": "бухгалтер",
+          "transcription": "əkaʊntənt"
+        },
+        {
+          "original": "bookkeeper",
+          "translation": "бухгалтер",
+          "transcription": "bʊkkiːpə"
+        },
+        {
+          "original": "teller",
+          "translation": "кассир",
+          "transcription": "tɛlə"
+        },
+        {
+          "original": "cashier",
+          "translation": "кассир",
+          "transcription": "kæʃɪə"
+        },
+        {
+          "original": "bank clerk",
+          "translation": "банковский клерк",
+          "transcription": "bæŋk klɑːk"
+        },
+        {
+          "original": "sales representative",
+          "translation": "торговый представитель",
+          "transcription": "seɪlz rɛprɪzɛntətɪv"
+        },
+        {
+          "original": "sales manager",
+          "translation": "менеджер по продажам",
+          "transcription": "seɪlz mænɪʤə"
+        },
+        {
+          "original": "wholesale buyer",
+          "translation": "оптовый покупатель",
+          "transcription": "həʊlseɪl baɪə"
+        },
+        {
+          "original": "wholesaler",
+          "translation": "оптовый поставщик",
+          "transcription": "həʊlseɪlə"
+        },
+        {
+          "original": "retailer",
+          "translation": "розничный торговец",
+          "transcription": "riːteɪlə"
+        },
+        {
+          "original": "merchant",
+          "translation": "торговец",
+          "transcription": "mɜːʧənt"
+        },
+        {
+          "original": "distributor",
+          "translation": "дилер",
+          "transcription": "dɪstrɪbjʊtə"
+        },
+        {
+          "original": "dealer",
+          "translation": "дилер",
+          "transcription": "diːlə"
+        },
+        {
+          "original": "trader",
+          "translation": "торговец",
+          "transcription": "treɪdə"
+        },
+        {
+          "original": "doctor",
+          "translation": "доктор",
+          "transcription": "dɒktə"
+        },
+        {
+          "original": "physician",
+          "translation": "врач",
+          "transcription": "fɪzɪʃən"
+        },
+        {
+          "original": "family doctor",
+          "translation": "семейный доктор",
+          "transcription": "fæmɪli dɒktə"
+        },
+        {
+          "original": "general practitioner",
+          "translation": "врач общей практики",
+          "transcription": "ʤɛnərəl præktɪʃnə"
+        },
+        {
+          "original": "eye specialist",
+          "translation": "офтальмолог",
+          "transcription": "aɪ spɛʃəlɪst"
+        },
+        {
+          "original": "ear specialist",
+          "translation": "ушной специалист",
+          "transcription": "ɪə spɛʃəlɪst"
+        },
+        {
+          "original": "principal",
+          "translation": "директор школы",
+          "transcription": "prɪnsəpəl"
+        },
+        {
+          "original": "dean",
+          "translation": "декан",
+          "transcription": "diːn"
+        },
+        {
+          "original": "professor",
+          "translation": "профессор",
+          "transcription": "prəfɛsə"
+        },
+        {
+          "original": "teacher",
+          "translation": "учитель",
+          "transcription": "tiːʧə"
+        },
+        {
+          "original": "instructor",
+          "translation": "инструктор",
+          "transcription": "ɪnstrʌktə"
+        },
+        {
+          "original": "schoolteacher",
+          "translation": "школьный учитель",
+          "transcription": "skuːltiːʧə"
+        },
+        {
+          "original": "college teacher",
+          "translation": "преподаватель колледжа",
+          "transcription": "kɒlɪʤ tiːʧə"
+        },
+        {
+          "original": "university teacher",
+          "translation": "преподаватель университета",
+          "transcription": "juːnɪvɜːsɪti tiːʧə"
+        },
+        {
+          "original": "scientist",
+          "translation": "ученый",
+          "transcription": "saɪəntɪst"
+        },
+        {
+          "original": "scholar",
+          "translation": "ученый",
+          "transcription": "skɒlə"
+        },
+        {
+          "original": "researcher",
+          "translation": "исследователь",
+          "transcription": "rɪsɜːʧə"
+        },
+        {
+          "original": "explorer",
+          "translation": "исследователь",
+          "transcription": "ɪksplɔːrə"
+        },
+        {
+          "original": "inventor",
+          "translation": "изобретатель",
+          "transcription": "ɪnvɛntə"
+        },
+        {
+          "original": "mathematician",
+          "translation": "математик",
+          "transcription": "mæθɪmətɪʃən"
+        },
+        {
+          "original": "physicist",
+          "translation": "физик",
+          "transcription": "fɪzɪsɪst"
+        },
+        {
+          "original": "chemist",
+          "translation": "химик",
+          "transcription": "kɛmɪst"
+        },
+        {
+          "original": "web developer",
+          "translation": "веб-разработчик",
+          "transcription": "wɛb dɪvɛləpə"
+        },
+        {
+          "original": "web programmer",
+          "translation": "веб-программист",
+          "transcription": "wɛb prəʊgræmə"
+        },
+        {
+          "original": "web designer",
+          "translation": "веб-дизайнер",
+          "transcription": "wɛb dɪzaɪnə"
+        },
+        {
+          "original": "artist",
+          "translation": "художник",
+          "transcription": "ɑːtɪst"
+        },
+        {
+          "original": "painter",
+          "translation": "художник",
+          "transcription": "peɪntə"
+        },
+        {
+          "original": "sculptor",
+          "translation": "скульптор",
+          "transcription": "skʌlptə"
+        },
+        {
+          "original": "architect",
+          "translation": "архитектор",
+          "transcription": "ɑːkɪtɛkt"
+        },
+        {
+          "original": "composer",
+          "translation": "композитор",
+          "transcription": "kəmpəʊzə"
+        },
+        {
+          "original": "conductor",
+          "translation": "проводник",
+          "transcription": "kəndʌktə"
+        },
+        {
+          "original": "musician",
+          "translation": "музыкант",
+          "transcription": "mjuːzɪʃən"
+        },
+        {
+          "original": "pianist",
+          "translation": "пианист",
+          "transcription": "pɪənɪst"
+        },
+        {
+          "original": "violinist",
+          "translation": "скрипач",
+          "transcription": "vaɪəlɪnɪst"
+        },
+        {
+          "original": "guitarist",
+          "translation": "гитарист",
+          "transcription": "gɪtɑːrɪst"
+        },
+        {
+          "original": "drummer",
+          "translation": "барабанщик",
+          "transcription": "drʌmə"
+        },
+        {
+          "original": "builder",
+          "translation": "строитель",
+          "transcription": "bɪldə"
+        },
+        {
+          "original": "construction worker",
+          "translation": "рабочий-строитель",
+          "transcription": "kənstrʌkʃən wɜːkə"
+        },
+        {
+          "original": "developer",
+          "translation": "разработчик",
+          "transcription": "dɪvɛləpə"
+        },
+        {
+          "original": "contractor",
+          "translation": "подрядчик",
+          "transcription": "kəntræktə"
+        },
+        {
+          "original": "engineer",
+          "translation": "инженер",
+          "transcription": "ɛnʤɪnɪə"
+        },
+        {
+          "original": "technician",
+          "translation": "техник",
+          "transcription": "tɛknɪʃən"
+        },
+        {
+          "original": "mechanic",
+          "translation": "механик",
+          "transcription": "mɪkænɪk"
+        },
+        {
+          "original": "electrical engineer",
+          "translation": "инженер-электрик",
+          "transcription": "ɪlɛktrɪkəl ɛnʤɪnɪə"
+        },
+        {
+          "original": "electrician",
+          "translation": "электрик",
+          "transcription": "ɪlɛktrɪʃən"
+        },
+        {
+          "original": "pilot",
+          "translation": "лётчик",
+          "transcription": "paɪlət"
+        },
+        {
+          "original": "flight engineer",
+          "translation": "бортинженер",
+          "transcription": "flaɪt ɛnʤɪnɪə"
+        },
+        {
+          "original": "flight navigator",
+          "translation": "навигатор полёта",
+          "transcription": "flaɪt nævɪgeɪtə"
+        },
+        {
+          "original": "flight attendant",
+          "translation": "стюардесса",
+          "transcription": "flaɪt ətɛndənt"
+        },
+        {
+          "original": "stewardess",
+          "translation": "стюардесса",
+          "transcription": "stjʊədɪs"
+        },
+        {
+          "original": "dispatcher",
+          "translation": "диспетчер",
+          "transcription": "dɪspæʧə"
+        },
+        {
+          "original": "mechanic",
+          "translation": "механик",
+          "transcription": "mɪkænɪk"
+        },
+        {
+          "original": "car mechanic",
+          "translation": "автомеханик",
+          "transcription": "kɑː mɪkænɪk"
+        },
+        {
+          "original": "judge",
+          "translation": "судья",
+          "transcription": "ʤʌʤ"
+        },
+        {
+          "original": "lawyer",
+          "translation": "юрист",
+          "transcription": "lɔːjə"
+        },
+        {
+          "original": "attorney",
+          "translation": "адвокат",
+          "transcription": "ətɜːni"
+        },
+        {
+          "original": "legal adviser",
+          "translation": "юрисконсульт",
+          "transcription": "liːgəl ədvaɪzə"
+        },
+        {
+          "original": "barrister",
+          "translation": "адвокат",
+          "transcription": "bærɪstə"
+        },
+        {
+          "original": "solicitor",
+          "translation": "адвокат",
+          "transcription": "səlɪsɪtə"
+        },
+        {
+          "original": "police officer",
+          "translation": "офицер полиции",
+          "transcription": "pəliːs ɒfɪsə"
+        },
+        {
+          "original": "policeman",
+          "translation": "полицейский",
+          "transcription": "pəliːsmən"
+        },
+        {
+          "original": "firefighter, fireman",
+          "translation": "пожарный",
+          "transcription": "faɪəfaɪtə / faɪəmən"
+        },
+        {
+          "original": "tailor",
+          "translation": "портной",
+          "transcription": "teɪlə"
+        },
+        {
+          "original": "seamstress",
+          "translation": "швея",
+          "transcription": "sɪmstrɪs"
+        },
+        {
+          "original": "postman, mailman",
+          "translation": "почтальон",
+          "transcription": "pəʊstmən / meɪlmæn"
+        },
+        {
+          "original": "editor",
+          "translation": "редактор",
+          "transcription": "ɛdɪtə"
+        },
+        {
+          "original": "proofreader",
+          "translation": "корректор",
+          "transcription": "pruːfriːdə"
+        },
+        {
+          "original": "printer",
+          "translation": "типограф",
+          "transcription": "prɪntə"
+        },
+        {
+          "original": "translator",
+          "translation": "переводчик",
+          "transcription": "trænzleɪtə"
+        },
+        {
+          "original": "interpreter",
+          "translation": "переводчик",
+          "transcription": "ɪntɜːprɪtə"
+        },
+        {
+          "original": "librarian",
+          "translation": "библиотекарь",
+          "transcription": "laɪbreəriən"
+        }
+      ]
+    },
+    {
+      "name": "150 самых употребляемых слов",
+      "words": [
+        {
+          "original": "abandon",
+          "transcription": "əˈbændən",
+          "translation": "отказываться"
+        },
+        {
+          "original": "abolish",
+          "transcription": "əˈbɒlɪʃ",
+          "translation": "отменять"
+        },
+        {
+          "original": "above",
+          "transcription": "əˈbʌv",
+          "translation": "выше, над"
+        },
+        {
+          "original": "accept",
+          "transcription": "əkˈsɛpt",
+          "translation": "принимать"
+        },
+        {
+          "original": "accurate",
+          "transcription": "ˈækjʊrɪt",
+          "translation": "точный"
+        },
+        {
+          "original": "admit",
+          "transcription": "ədˈmɪt",
+          "translation": "допускать, признавать"
+        },
+        {
+          "original": "beach",
+          "transcription": "biːʧ",
+          "translation": "пляж"
+        },
+        {
+          "original": "believe",
+          "transcription": "bɪˈliːv",
+          "translation": "верить, полагать"
+        },
+        {
+          "original": "boil",
+          "transcription": "bɔɪl",
+          "translation": "кипятить, варить"
+        },
+        {
+          "original": "borrow",
+          "transcription": "ˈbɒrəʊ",
+          "translation": "занимать"
+        },
+        {
+          "original": "busy",
+          "transcription": "ˈbɪzi",
+          "translation": "занятой"
+        },
+        {
+          "original": "calm",
+          "transcription": "kɑːm",
+          "translation": "спокойный, успокаиваться"
+        },
+        {
+          "original": "careful",
+          "transcription": "ˈkeəfʊl",
+          "translation": "осторожный"
+        },
+        {
+          "original": "care",
+          "transcription": "keə",
+          "translation": "волноваться, забота"
+        },
+        {
+          "original": "century",
+          "transcription": "ˈsɛnʧʊri",
+          "translation": "век"
+        },
+        {
+          "original": "challenge",
+          "transcription": "ˈʧælɪnʤ",
+          "translation": "проблема, вызов"
+        },
+        {
+          "original": "dangerous",
+          "transcription": "ˈdeɪnʤrəs",
+          "translation": "опасный"
+        },
+        {
+          "original": "date",
+          "transcription": "deɪt",
+          "translation": "дата, свидание"
+        },
+        {
+          "original": "dear",
+          "transcription": "dɪə",
+          "translation": "дорогой"
+        },
+        {
+          "original": "decide",
+          "transcription": "dɪˈsaɪd",
+          "translation": "решать"
+        },
+        {
+          "original": "definitely",
+          "transcription": "ˈdɛfɪnɪtli",
+          "translation": "определенно"
+        },
+        {
+          "original": "discover",
+          "transcription": "dɪsˈkʌvə",
+          "translation": "открыть, обнаружить"
+        },
+        {
+          "original": "earn",
+          "transcription": "ɜːn",
+          "translation": "зарабатывать"
+        },
+        {
+          "original": "effort",
+          "transcription": "ˈɛfət",
+          "translation": "усилие, попытка"
+        },
+        {
+          "original": "empty",
+          "transcription": "ˈɛmpti",
+          "translation": "пустой"
+        },
+        {
+          "original": "enjoy",
+          "transcription": "ɪnˈʤɔɪ",
+          "translation": "наслаждаться"
+        },
+        {
+          "original": "environment",
+          "transcription": "",
+          "translation": "окружающая среда"
+        },
+        {
+          "original": "fail",
+          "transcription": "feɪl",
+          "translation": "потерпеть неудачу"
+        },
+        {
+          "original": "familiar",
+          "transcription": "fəˈmɪliə",
+          "translation": "знакомый"
+        },
+        {
+          "original": "famous",
+          "transcription": "ˈfeɪməs",
+          "translation": "знаменитый"
+        },
+        {
+          "original": "fast",
+          "transcription": "fɑːst",
+          "translation": "быстрый"
+        },
+        {
+          "original": "fight",
+          "transcription": "faɪt",
+          "translation": "бороться, драться"
+        },
+        {
+          "original": "forbid",
+          "transcription": "fəˈbɪd",
+          "translation": "запрещать"
+        },
+        {
+          "original": "garbage",
+          "transcription": "ˈgɑːbɪʤ",
+          "translation": "мусор"
+        },
+        {
+          "original": "generous",
+          "transcription": "ˈʤɛnərəs",
+          "translation": "щедрый"
+        },
+        {
+          "original": "grateful",
+          "transcription": "ˈgreɪtfʊl",
+          "translation": "благодарный"
+        },
+        {
+          "original": "grow",
+          "transcription": "grəʊ",
+          "translation": "расти"
+        },
+        {
+          "original": "guess",
+          "transcription": "gɛs",
+          "translation": "догадываться"
+        },
+        {
+          "original": "habit",
+          "transcription": "ˈhæbɪt",
+          "translation": "привычка"
+        },
+        {
+          "original": "happy",
+          "transcription": "ˈhæpi",
+          "translation": "счастливый, радостный"
+        },
+        {
+          "original": "hate",
+          "transcription": "heɪt",
+          "translation": "ненавидеть"
+        },
+        {
+          "original": "health",
+          "transcription": "hɛlθ",
+          "translation": "здоровье"
+        },
+        {
+          "original": "help",
+          "transcription": "hɛlp",
+          "translation": "помощь; помогать"
+        },
+        {
+          "original": "ignorant",
+          "transcription": "ˈɪgnərənt",
+          "translation": "несведущий"
+        },
+        {
+          "original": "ill",
+          "transcription": "ɪl",
+          "translation": "больной"
+        },
+        {
+          "original": "immediately",
+          "transcription": "ɪˈmiːdiətli",
+          "translation": "немедленно"
+        },
+        {
+          "original": "impossible",
+          "transcription": "ɪmˈpɒsəbl",
+          "translation": "невозможный"
+        },
+        {
+          "original": "income",
+          "transcription": "ˈɪnkʌm",
+          "translation": "доход"
+        },
+        {
+          "original": "instead",
+          "transcription": "ɪnˈstɛd",
+          "translation": "вместо"
+        },
+        {
+          "original": "job",
+          "transcription": "ʤɒb",
+          "translation": "работа"
+        },
+        {
+          "original": "join",
+          "transcription": "ʤɔɪn",
+          "translation": "присоединяться"
+        },
+        {
+          "original": "journey",
+          "transcription": "ˈʤɜːni",
+          "translation": "путешествие"
+        },
+        {
+          "original": "joy",
+          "transcription": "ʤɔɪ",
+          "translation": "радость"
+        },
+        {
+          "original": "justice",
+          "transcription": "ˈʤʌstɪs",
+          "translation": "справедливость"
+        },
+        {
+          "original": "kid",
+          "transcription": "kɪd",
+          "translation": "ребенок"
+        },
+        {
+          "original": "knowledge",
+          "transcription": "ˈnɒlɪʤ",
+          "translation": "знание"
+        },
+        {
+          "original": "keen",
+          "transcription": "kiːn",
+          "translation": "живо интересующийся"
+        },
+        {
+          "original": "kingdom",
+          "transcription": "ˈkɪŋdəm",
+          "translation": "царство, королевство"
+        },
+        {
+          "original": "knee",
+          "transcription": "niː",
+          "translation": "колено"
+        },
+        {
+          "original": "lack",
+          "transcription": "læk",
+          "translation": "недостаток, нехватка"
+        },
+        {
+          "original": "land",
+          "transcription": "lænd",
+          "translation": "земля; приземляться"
+        },
+        {
+          "original": "language",
+          "transcription": "ˈlæŋgwɪʤ",
+          "translation": "язык"
+        },
+        {
+          "original": "lately",
+          "transcription": "ˈleɪtli",
+          "translation": "в последнее время"
+        },
+        {
+          "original": "lazy",
+          "transcription": "ˈleɪzi",
+          "translation": "ленивый"
+        },
+        {
+          "original": "mad",
+          "transcription": "mæd",
+          "translation": "сумасшедший"
+        },
+        {
+          "original": "main",
+          "transcription": "meɪn",
+          "translation": "основной, главный"
+        },
+        {
+          "original": "make",
+          "transcription": "meɪk",
+          "translation": "делать, производить"
+        },
+        {
+          "original": "maybe",
+          "transcription": "ˈmeɪbiː",
+          "translation": "может быть"
+        },
+        {
+          "original": "mean",
+          "transcription": "miːn",
+          "translation": "значить"
+        },
+        {
+          "original": "native",
+          "transcription": "ˈneɪtɪv",
+          "translation": "родной"
+        },
+        {
+          "original": "necessary",
+          "transcription": "ˈnɛsɪsəri",
+          "translation": "необходимый"
+        },
+        {
+          "original": "neighbour",
+          "transcription": "ˈneɪbə",
+          "translation": "сосед"
+        },
+        {
+          "original": "nervous",
+          "transcription": "ˈnɜːvəs",
+          "translation": "нервный"
+        },
+        {
+          "original": "nowadays",
+          "transcription": "ˈnaʊədeɪz",
+          "translation": "в наше время"
+        },
+        {
+          "original": "observe",
+          "transcription": "əbˈzɜːv",
+          "translation": "замечать, наблюдать"
+        },
+        {
+          "original": "obtain",
+          "transcription": "əbˈteɪn",
+          "translation": "получать"
+        },
+        {
+          "original": "offend",
+          "transcription": "əˈfɛnd",
+          "translation": "обижать, оскорблять"
+        },
+        {
+          "original": "opinion",
+          "transcription": "əˈpɪnjən",
+          "translation": "мнение"
+        },
+        {
+          "original": "outcome",
+          "transcription": "ˈaʊtkʌm",
+          "translation": "результат"
+        },
+        {
+          "original": "outstanding",
+          "transcription": "aʊtˈstændɪŋ",
+          "translation": "выдающийся"
+        },
+        {
+          "original": "overall",
+          "transcription": "ˈəʊvərɔːl",
+          "translation": "в целом"
+        },
+        {
+          "original": "owe",
+          "transcription": "əʊ",
+          "translation": "быть должным"
+        },
+        {
+          "original": "own",
+          "transcription": "əʊn",
+          "translation": "собственный; владеть"
+        },
+        {
+          "original": "pain",
+          "transcription": "peɪn",
+          "translation": "боль"
+        },
+        {
+          "original": "parent",
+          "transcription": "ˈpeərənt",
+          "translation": "родитель"
+        },
+        {
+          "original": "participate",
+          "transcription": "",
+          "translation": "принимать участие"
+        },
+        {
+          "original": "past",
+          "transcription": "pɑːst",
+          "translation": "прошлый"
+        },
+        {
+          "original": "pay",
+          "transcription": "peɪ",
+          "translation": "платить"
+        },
+        {
+          "original": "provide",
+          "transcription": "prəˈvaɪd",
+          "translation": "обеспечивать"
+        },
+        {
+          "original": "purchase",
+          "transcription": "ˈpɜːʧəs",
+          "translation": "приобрести"
+        },
+        {
+          "original": "purpose",
+          "transcription": "ˈpɜːpəs",
+          "translation": "цель"
+        },
+        {
+          "original": "pursue",
+          "transcription": "pəˈsjuː",
+          "translation": "преследовать"
+        },
+        {
+          "original": "push",
+          "transcription": "pʊʃ",
+          "translation": "толкать"
+        },
+        {
+          "original": "quiet",
+          "transcription": "ˈkwaɪət",
+          "translation": "тихий"
+        },
+        {
+          "original": "quality",
+          "transcription": "ˈkwɒlɪti",
+          "translation": "качество"
+        },
+        {
+          "original": "quit",
+          "transcription": "kwɪt",
+          "translation": "уходить"
+        },
+        {
+          "original": "rare",
+          "transcription": "reə",
+          "translation": "редкий"
+        },
+        {
+          "original": "rather",
+          "transcription": "ˈrɑːðə",
+          "translation": "весьма"
+        },
+        {
+          "original": "ready",
+          "transcription": "ˈrɛdi",
+          "translation": "готовый"
+        },
+        {
+          "original": "reason",
+          "transcription": "ˈriːzn",
+          "translation": "причина"
+        },
+        {
+          "original": "recent",
+          "transcription": "ˈriːsnt",
+          "translation": "недавний"
+        },
+        {
+          "original": "recognize",
+          "transcription": "ˈrɛkəgnaɪz",
+          "translation": "узнавать"
+        },
+        {
+          "original": "right",
+          "transcription": "raɪt",
+          "translation": "правый"
+        },
+        {
+          "original": "rough",
+          "transcription": "rʌf",
+          "translation": "грубый"
+        },
+        {
+          "original": "rude",
+          "transcription": "ruːd",
+          "translation": "грубый"
+        },
+        {
+          "original": "rule",
+          "transcription": "ruːl",
+          "translation": "правило"
+        },
+        {
+          "original": "run",
+          "transcription": "rʌn",
+          "translation": "бежать"
+        },
+        {
+          "original": "safe",
+          "transcription": "seɪf",
+          "translation": "безопасный"
+        },
+        {
+          "original": "salary",
+          "transcription": "ˈsæləri",
+          "translation": "зарплата"
+        },
+        {
+          "original": "sale",
+          "transcription": "seɪl",
+          "translation": "продажа"
+        },
+        {
+          "original": "same",
+          "transcription": "seɪm",
+          "translation": "то же самое"
+        },
+        {
+          "original": "satisfy",
+          "transcription": "ˈsætɪsfaɪ",
+          "translation": "удовлетворять"
+        },
+        {
+          "original": "seem",
+          "transcription": "siːm",
+          "translation": "казаться"
+        },
+        {
+          "original": "sure",
+          "transcription": "ʃʊə",
+          "translation": "уверенный"
+        },
+        {
+          "original": "scare",
+          "transcription": "skeə",
+          "translation": "испугать"
+        },
+        {
+          "original": "surprised",
+          "transcription": "səˈpraɪzd",
+          "translation": "удивленный"
+        },
+        {
+          "original": "surround",
+          "transcription": "səˈraʊnd",
+          "translation": "окружать"
+        },
+        {
+          "original": "swallow",
+          "transcription": "ˈswɒləʊ",
+          "translation": "глотать"
+        },
+        {
+          "original": "sweat",
+          "transcription": "swɛt",
+          "translation": "потеть"
+        },
+        {
+          "original": "task",
+          "transcription": "tɑːsk",
+          "translation": "задача"
+        },
+        {
+          "original": "tax",
+          "transcription": "tæks",
+          "translation": "налог"
+        },
+        {
+          "original": "temporary",
+          "transcription": "ˈtɛmpərəri",
+          "translation": "временный"
+        },
+        {
+          "original": "terrible",
+          "transcription": "ˈtɛrəbl",
+          "translation": "ужасный"
+        },
+        {
+          "original": "throw",
+          "transcription": "θrəʊ",
+          "translation": "бросать"
+        },
+        {
+          "original": "ugly",
+          "transcription": "ˈʌgli",
+          "translation": "некрасивый"
+        },
+        {
+          "original": "unique",
+          "transcription": "juːˈniːk",
+          "translation": "уникальный"
+        },
+        {
+          "original": "universe",
+          "transcription": "ˈjuːnɪvɜːs",
+          "translation": "вселенная"
+        },
+        {
+          "original": "unlike",
+          "transcription": "ʌnˈlaɪk",
+          "translation": "в отличие"
+        },
+        {
+          "original": "unless",
+          "transcription": "ənˈlɛs",
+          "translation": "если не, пока не"
+        },
+        {
+          "original": "upper",
+          "transcription": "ˈʌpə",
+          "translation": "верхний"
+        },
+        {
+          "original": "urban",
+          "transcription": "ˈɜːbən",
+          "translation": "городской"
+        },
+        {
+          "original": "usage",
+          "transcription": "ˈjuːzɪʤ",
+          "translation": "употребление"
+        },
+        {
+          "original": "valuable",
+          "transcription": "ˈvæljʊəbl",
+          "translation": "ценный"
+        },
+        {
+          "original": "variety",
+          "transcription": "vəˈraɪəti",
+          "translation": "разнообразие"
+        },
+        {
+          "original": "very",
+          "transcription": "ˈvɛri",
+          "translation": "очень"
+        },
+        {
+          "original": "victory",
+          "transcription": "ˈvɪktəri",
+          "translation": "победа"
+        },
+        {
+          "original": "vote",
+          "transcription": "vəʊt",
+          "translation": "голосовать"
+        },
+        {
+          "original": "voice",
+          "transcription": "vɔɪs",
+          "translation": "голос"
+        },
+        {
+          "original": "wake",
+          "transcription": "weɪk",
+          "translation": "разбудить; просыпаться"
+        },
+        {
+          "original": "wallet",
+          "transcription": "ˈwɒlɪt",
+          "translation": "бумажник"
+        },
+        {
+          "original": "way",
+          "transcription": "weɪ",
+          "translation": "способ; путь"
+        },
+        {
+          "original": "weather",
+          "transcription": "ˈwɛðə",
+          "translation": "погода"
+        },
+        {
+          "original": "weak",
+          "transcription": "wiːk",
+          "translation": "слабый"
+        },
+        {
+          "original": "wealthy",
+          "transcription": "ˈwɛlθi",
+          "translation": "состоятельный"
+        },
+        {
+          "original": "wife",
+          "transcription": "waɪf",
+          "translation": "жена"
+        },
+        {
+          "original": "worth",
+          "transcription": "wɜːθ",
+          "translation": "стоящий"
+        },
+        {
+          "original": "worry",
+          "transcription": "ˈwʌri",
+          "translation": "беспокоиться"
+        },
+        {
+          "original": "yet",
+          "transcription": "jɛt",
+          "translation": "еще; пока"
+        },
+        {
+          "original": "youth",
+          "transcription": "juːθ",
+          "translation": "юность"
+        },
+        {
+          "original": "zero",
+          "transcription": "ˈzɪərəʊ",
+          "translation": "ноль"
+        }
+      ]
+    },
+    {
+      "name": ""
+    }
+  ]
+}
